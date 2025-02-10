@@ -17,7 +17,7 @@ const swaggerOptions = {
       },
     ],
   },
-  apis: ["./src/routes/*.js"], // Path to your route files
+  apis: ["./src/routes/swaggerCom.js"], // Path to your route files
 };
 
 // Initialize Swagger Docs
